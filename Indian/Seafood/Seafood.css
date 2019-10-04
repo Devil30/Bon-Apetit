@@ -45,6 +45,9 @@ p{background-image: url("parch1.jpg");font-family:ty;font-size:35;}
   transition: background-color 3s ease;
 }
 
+.ranjan{
+}
+
 .active {
   background-color: #717171;
 }
